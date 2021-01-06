@@ -21,7 +21,7 @@
     "ulka": "^0.4.1-rc.11"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "remarkable": "^2.0.1",
     "ulka-plugin-reading-time": "^1.0.1",
     "ulka-plugin-sitemap": "^1.0.5",
